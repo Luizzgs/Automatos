@@ -1,0 +1,6 @@
+A; aabb_ 0
+R; bab_ 0
+A; aaabbb_ 0
+R; bababababab_ 0
+R; bbbbbbbbbba_ 0
+R; casdsad_ 0
